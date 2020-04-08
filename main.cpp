@@ -15,6 +15,6 @@ int pow(int x, int n)
 
 int main()
 {
-    int i = 2;
+    int i = 0;
     cout << "Hello world!" << endl;
 }
